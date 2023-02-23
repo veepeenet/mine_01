@@ -1,8 +1,8 @@
 {
-  "name": "travel",
+  "name": "mine",
   "version": "1.0.0",
   "scripts": {
-    "dev": "webpack serve",
+    "dev": "webpack",
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
