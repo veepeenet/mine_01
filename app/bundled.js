@@ -15,7 +15,7 @@
   \***********************************/
 /***/ (() => {
 
-eval("alert(\"yaya\")\n\n//# sourceURL=webpack://mine/./app/assets/scripts/App.js?");
+eval("alert(\"weeee\")\n\n//# sourceURL=webpack://mine/./app/assets/scripts/App.js?");
 
 /***/ })
 
