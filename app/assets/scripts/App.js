@@ -1,1 +1,1 @@
-alert("weeee")
+import '../styles/styles.css'
